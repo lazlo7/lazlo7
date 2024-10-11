@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**lazlo7/lazlo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on yet another sudden project idea that jumped to my mind
 - 🌱 I’m currently learning python the snake, linux the penguin, backend the back hole and web development the spider architecture  
 - 👯 I’m looking to collaborate on anything provided i get paid
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: me@requef.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I created this readme solely to verify myself on github education to get free github copilot! 
--->
