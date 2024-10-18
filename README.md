@@ -7,4 +7,4 @@
 - 💬 Ask me about the industrial revolution and its consequences for the human race
 - 📫 How to reach me: me@requef.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I created this readme solely to verify myself on github education to get free github copilot! 
+- ⚡ Fun fact: it tooke me less than 3 minutes to write this gibberish! lol! 
